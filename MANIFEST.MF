@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.freecore.dualauth.FreeCoreDualAuthService
+Class-Path: libs/mysql-connector-j-9.3.0.jar
+
